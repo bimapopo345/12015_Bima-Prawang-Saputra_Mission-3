@@ -1,0 +1,1399 @@
+.register .logo-1 {
+  width: 193px;
+  height: 30.1px;
+}
+.register .navigation {
+  border-bottom: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+  background: #ffffff;
+  margin-bottom: 64px;
+  padding: 25px 142px 23.9px 142px;
+  width: 100%;
+  height: 80px;
+  box-sizing: border-box;
+}
+.register .pendaftaran-akun {
+  margin-bottom: 10px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-heading-3-font-family, "Poppins");
+  font-weight: var(--heading-heading-3-font-weight, 600);
+  font-size: var(--heading-heading-3-font-size, 32px);
+  line-height: var(--heading-heading-3-line-height, 1.1);
+  color: var(--text-dark-primary-1, #222325);
+}
+.register .yuk-daftarkan-akunmu-sekarang-juga {
+  margin: 0 5.8px 0 6.6px;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-regular-1-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-regular-1-font-weight, 400);
+  font-size: var(--body-medium-medium-regular-1-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-regular-1-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-regular-1-line-height, 1.4);
+  color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+}
+.register .desc {
+  margin: 0 0 36px 6.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.register .label-text {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-regular-1-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-regular-1-font-weight, 400);
+  font-size: var(--body-medium-medium-regular-1-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-regular-1-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-regular-1-line-height, 1.4);
+  color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+}
+.register .span-text {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+  font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+  font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+  letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+  line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+  color: var(--error-default, #ff5c2b);
+}
+.register .text-field-label-text-3 {
+  position: relative;
+  margin-bottom: 4px;
+  align-self: flex-start;
+  width: 122.8px;
+  height: 24px;
+}
+.register .input-3 {
+  background: var(--other-primary-background, #ffffff);
+  width: 518px;
+  height: 48px;
+}
+.register .text-field-field-3 {
+  border-radius: 6px;
+  border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+  display: flex;
+  width: 518px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.register .text-field {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  width: 518px;
+  box-sizing: border-box;
+}
+.register .label-text-1 {
+  margin: 2px 3.7px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-regular-1-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-regular-1-font-weight, 400);
+  font-size: var(--body-medium-medium-regular-1-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-regular-1-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-regular-1-line-height, 1.4);
+  color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+}
+.register .span-text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+  font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+  font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+  letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+  line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+  color: var(--error-default, #ff5c2b);
+}
+.register .text-field-label-text-4 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.register .input-4 {
+  background: var(--other-primary-background, #ffffff);
+  width: 518px;
+  height: 48px;
+}
+.register .text-field-field-4 {
+  border-radius: 6px;
+  border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+  display: flex;
+  width: 518px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.register .text-field-1 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.register .label-text-2 {
+  margin: 2px 4.1px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-regular-1-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-regular-1-font-weight, 400);
+  font-size: var(--body-medium-medium-regular-1-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-regular-1-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-regular-1-line-height, 1.4);
+  color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+}
+.register .span-text-2 {
+  overflow-wrap: break-word;
+  font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+  font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+  font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+  letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+  line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+  color: var(--error-default, #ff5c2b);
+}
+.register .text-field-label-text {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.register .vector {
+  background: #e70011;
+  width: 24px;
+  height: 12.4px;
+}
+.register .vector-1 {
+  background: #ffffff;
+  width: 24px;
+  height: 12px;
+}
+.register .logo {
+  border-right: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+  background: var(--other-base-background, #f4f5fa);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 9px 12px 10px;
+  width: 44px;
+  box-sizing: border-box;
+}
+.register .placeholder {
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-regular-font-family, "Roboto");
+  font-weight: var(--body-medium-medium-regular-font-weight, 400);
+  font-size: var(--body-medium-medium-regular-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-regular-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-regular-line-height, 1.4);
+  color: var(--text-dark-primary-1, #222325);
+}
+.register .text {
+  display: flex;
+  box-sizing: border-box;
+}
+.register .vector-2 {
+  width: 12px;
+  height: 7.4px;
+}
+.register .icon {
+  margin: 7.6px 0 7px 0;
+  display: flex;
+  width: 12px;
+  height: 7.4px;
+  box-sizing: border-box;
+}
+.register .input {
+  background: var(--other-primary-background, #ffffff);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 13px 16px 13px 10px;
+  width: 112.7px;
+  box-sizing: border-box;
+}
+.register .text-field-field {
+  border-radius: 6px;
+  border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+  display: flex;
+  flex-direction: row;
+  width: 156.7px;
+  box-sizing: border-box;
+}
+.register .text-field-2 {
+  margin-right: 24px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.register .input-5 {
+  background: var(--other-primary-background, #ffffff);
+  width: 337.3px;
+  height: 48px;
+}
+.register .text-field-field-5 {
+  border-radius: 6px;
+  border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+  display: flex;
+  width: 337.3px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.register .text-field-3 {
+  margin-top: 28px;
+  display: flex;
+  width: 337.3px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.register .frame-42287 {
+  margin: 0 0px 16px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.register .label-text-3 {
+  margin: 2px 4.5px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-regular-1-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-regular-1-font-weight, 400);
+  font-size: var(--body-medium-medium-regular-1-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-regular-1-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-regular-1-line-height, 1.4);
+  color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+}
+.register .span-text-3 {
+  overflow-wrap: break-word;
+  font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+  font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+  font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+  letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+  line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+  color: var(--error-default, #ff5c2b);
+}
+.register .text-field-label-text-1 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.register .vector-3 {
+  width: 22px;
+  height: 19px;
+}
+.register .input-1 {
+  background: var(--other-primary-background, #ffffff);
+  display: flex;
+  padding: 15px 11px 14px 11px;
+  width: 518px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.register .text-field-field-1 {
+  border-radius: 6px;
+  border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+  display: flex;
+  width: 518px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.register .text-field-4 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.register .label-text-4 {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-regular-1-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-regular-1-font-weight, 400);
+  font-size: var(--body-medium-medium-regular-1-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-regular-1-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-regular-1-line-height, 1.4);
+  color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+}
+.register .span-text-4 {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+  font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+  font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+  letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+  line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+  color: var(--error-default, #ff5c2b);
+}
+.register .text-field-label-text-2 {
+  position: relative;
+  margin-bottom: 4px;
+  align-self: flex-start;
+  width: 174.8px;
+  height: 24px;
+}
+.register .vector-4 {
+  width: 22px;
+  height: 19px;
+}
+.register .input-2 {
+  background: var(--other-primary-background, #ffffff);
+  display: flex;
+  padding: 15px 11px 14px 11px;
+  width: 518px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.register .text-field-field-2 {
+  border-radius: 6px;
+  border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+  display: flex;
+  width: 518px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.register .text-field-5 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  width: 518px;
+  box-sizing: border-box;
+}
+.register .lupa-password {
+  margin: 0 0.5px;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-medium-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-medium-font-weight, 500);
+  font-size: var(--body-medium-medium-medium-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-medium-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-medium-line-height, 1.4);
+  color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+}
+.register .frame-1000004403 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.register .button-4 {
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-bold-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-bold-font-weight, 700);
+  font-size: var(--body-medium-medium-bold-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-bold-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-bold-line-height, 1.4);
+  color: var(--text-light-primary-1, #ffffff);
+}
+.register .button {
+  border-radius: 10px;
+  background: var(--primary-default, #3ecf4c);
+  margin-bottom: 16px;
+  display: flex;
+  padding: 10px 0 10px 0.5px;
+  width: 518px;
+  box-sizing: border-box;
+}
+.register .button-5 {
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-bold-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-bold-font-weight, 700);
+  font-size: var(--body-medium-medium-bold-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-bold-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-bold-line-height, 1.4);
+  color: var(--primary-default, #3ecf4c);
+}
+.register .button-1 {
+  border-radius: 10px;
+  background: var(--primary-100, rgba(226, 252, 217, 0.8));
+  display: flex;
+  padding: 10px 0px 10px 0;
+  width: 518px;
+  box-sizing: border-box;
+}
+.register .frame-1000004809 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 518px;
+  box-sizing: border-box;
+}
+.register .frame-1000004405 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.register .rectangle-1 {
+  background: var(--other-border-1, #f1f1f1);
+  width: 518px;
+  height: 2px;
+}
+.register .divider {
+  position: absolute;
+  left: 50%;
+  bottom: 10px;
+  translate: -50% 0;
+  display: flex;
+  width: 518px;
+  height: 2px;
+  box-sizing: border-box;
+}
+.register .atau {
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-regular-1-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-regular-1-font-weight, 400);
+  font-size: var(--body-medium-medium-regular-1-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-regular-1-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-regular-1-line-height, 1.4);
+  color: var(--text-dark-secondary-1, #4a505c);
+}
+.register .frame-1000004408 {
+  background: var(--text-light-primary, #ffffff);
+  display: flex;
+  padding: 0 8.4px;
+  box-sizing: border-box;
+  justify-content: center; /* Centers content horizontally */
+  align-items: center;
+}
+.register .frame-1000004407 {
+  position: relative;
+  margin-bottom: 24px;
+  display: flex;
+  width: 518px;
+  box-sizing: border-box;
+}
+.register .logosgoogle-icon {
+  margin: 1px 8px 1px 0;
+  width: 15px;
+  height: 20px;
+}
+.register .button-3 {
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-bold-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-bold-font-weight, 700);
+  font-size: var(--body-medium-medium-bold-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-bold-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-bold-line-height, 1.4);
+  color: var(--text-dark-secondary-1, #4a505c);
+}
+.register .button-2 {
+  border-radius: 10px;
+  border: 1px solid var(--other-border-1, #f1f1f1);
+  background: var(--text-light-primary, #ffffff);
+  display: flex;
+  flex-direction: row;
+  padding: 9px 0;
+  width: 518px;
+  box-sizing: border-box;
+}
+.register .frame-1000004406 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.register .frame-42224 {
+  border-radius: 4px;
+  border: 1px solid var(--other-border-1, #f1f1f1);
+  background: var(--text-light-primary, #ffffff);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 35px;
+  box-sizing: border-box;
+}
+.register .frame-1000003752 {
+  display: flex;
+  box-sizing: border-box;
+}
+.register {
+  background: #fffdf3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 64px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.register .button,
+.register .button-1,
+.register .button-2 {
+  display: flex;
+  justify-content: center; /* Centers content horizontally */
+  align-items: center; /* Centers content vertically */
+  padding: 10px 0; /* Ensure padding does not interfere with text */
+  width: 518px; /* Maintain the button width */
+  box-sizing: border-box;
+}
+
+.register .button-4,
+.register .button-5,
+.register .button-3 {
+  font-family: "DM Sans", sans-serif; /* Ensure font family is consistent */
+  font-weight: 700; /* Bold text */
+  font-size: 16px; /* Consistent font size */
+  text-align: center; /* Center text within the span */
+  width: 100%; /* Span fills the entire button width */
+}
+
+.register .frame-1000004408 {
+  background: var(--text-light-primary, #ffffff);
+  display: flex;
+  align-items: center; /* Centers content vertically */
+  justify-content: center; /* Centers content horizontally */
+  padding: 0 8.4px;
+  box-sizing: border-box; /* This ensures that the positioning inside the frame is relative to this frame */
+  width: 100%; /* Ensures it stretches across the divider */
+}
+
+.register .atau {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #4a505c;
+  text-align: center; /* Ensures text itself is centered if flex settings fail */
+  width: 100%;
+  z-index: 1; /* Takes full width to center the text if container flex settings are overridden somewhere */
+}
+
+.register .input-field {
+  background: var(--other-primary-background, #ffffff);
+  width: 100%; /* Pastikan ini diatur seragam untuk responsivitas */
+  height: 48px;
+  padding: 10px; /* Contoh padding */
+  border-radius: 6px;
+  border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+}
+
+.register .input-field-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.register .input-text {
+  flex-grow: 1; /* Memungkinkan input mengambil lebar maksimal */
+}
+
+.register .text-field-input {
+  background: var(--other-primary-background, #ffffff);
+  width: 518px;
+  height: 48px;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+  box-sizing: border-box;
+}
+
+.register .text-field {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.register .label-text-common {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 4px;
+  position: relative;
+  width: 100%;
+}
+
+.register .label-text,
+.register .label-text-common .label-text-4 {
+  margin: 0;
+  display: block;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(51, 51, 51, 0.68);
+  width: auto;
+}
+
+.register .span-text-common {
+  position: absolute;
+  right: 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #ff5c2b;
+}
+
+/* CSS untuk Kata Sandi */
+
+.register .input-1 {
+  /* flex-grow: 1; Biarkan input mengambil ruang tersisa */
+  background: transparent; /* Background transparan agar ikon terlihat */
+  border: none; /* Hapus border untuk input */
+  height: 100%; /* Full height */
+}
+
+@media (max-width: 576px) {
+  .register {
+    background: #fffdf3;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 28px;
+    box-sizing: border-box;
+  }
+  .register .nav-mobile {
+    margin-bottom: 28px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .frame-1000003752 {
+    margin: 0 20px;
+    display: flex;
+    width: calc(100% - 40px);
+    box-sizing: border-box;
+  }
+  .register .frame-42224 {
+    border-radius: 4px;
+    border: 1px solid var(--other-border-1, #f1f1f1);
+    background: var(--text-light-primary, #ffffff);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 19px;
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .register .desc {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .register .pendaftaran-akun {
+    margin: 0 13.5px 10px 13.5px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: "Poppins";
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.1;
+    color: var(--text-dark-primary-1, #222325);
+  }
+  .register .yuk-daftarkan-akunmu-sekarang-juga {
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+  }
+  .register .frame-1000004406 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .frame-1000004405 {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .frame-1000004403 {
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .text-field {
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .text-field-1 {
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .text-field-2 {
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .frame-42287 {
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .text-field-3 {
+    margin-right: 12px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 122px;
+    box-sizing: border-box;
+  }
+  .register .text-field-label-text {
+    margin-bottom: 4px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .register .text-field-field {
+    border-radius: 6px;
+    border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .logo {
+    border-right: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+    background: var(--other-base-background, #f4f5fa);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 12px 9px 12px 10px;
+    flex-grow: 1;
+    flex-basis: 44px;
+    box-sizing: border-box;
+  }
+  .register .vector {
+    background: #e70011;
+    width: 24px;
+    height: 12.4px;
+  }
+  .register .vector-1 {
+    background: #ffffff;
+    width: 24px;
+    height: 12px;
+  }
+  .register .input {
+    background: var(--other-primary-background, #ffffff);
+    display: flex;
+    flex-direction: row;
+    padding: 14px 16px 14px 10px;
+    flex-grow: 1;
+    flex-basis: 78px;
+    box-sizing: border-box;
+  }
+  .register .container {
+    margin-right: 15.4px;
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-primary-1, #222325);
+  }
+  .register .icon {
+    margin: 6.6px 0 6px 0;
+    display: flex;
+    width: 12px;
+    height: 7.4px;
+    box-sizing: border-box;
+  }
+  .register .text-field-4 {
+    margin-top: 28px;
+    display: flex;
+    height: 48px;
+    flex-grow: 1;
+    flex-basis: 146px;
+    box-sizing: border-box;
+  }
+  .register .text-field-5 {
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .text-field-label-text-1 {
+    margin-bottom: 4px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .register .text-field-field-1 {
+    border-radius: 6px;
+    border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+    width: 100%;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .register .input-1 {
+    background: var(--other-primary-background, #ffffff);
+    display: flex;
+    padding: 15px 11px 14px 11px;
+    width: 100%;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .register .text-field-6 {
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .text-field-label-text-2 {
+    position: relative;
+    margin-bottom: 4px;
+    align-self: flex-start;
+    width: 154.8px;
+    height: 24px;
+  }
+  .register .text-field-field-2 {
+    border-radius: 6px;
+    border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+    width: 100%;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .register .input-2 {
+    background: var(--other-primary-background, #ffffff);
+    display: flex;
+    padding: 15px 11px 14px 11px;
+    width: 100%;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .register .lupa-password {
+    margin: 0 0.1px;
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+  }
+  .register .frame-1000004809 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .button {
+    border-radius: 10px;
+    background: var(--primary-default, #3ecf4c);
+    margin-bottom: 16px;
+    display: flex;
+    padding: 7px 0 7px 0.3px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .button-1 {
+    border-radius: 10px;
+    background: var(--primary-100, rgba(226, 252, 217, 0.8));
+    display: flex;
+    padding: 7px 0.4px 7px 0;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .frame-1000004407 {
+    position: relative;
+    margin-bottom: 20px;
+    display: flex;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .divider {
+    position: absolute;
+    left: 50%;
+    bottom: 9px;
+    translate: -50% 0;
+    display: flex;
+    width: 280px;
+    height: 2px;
+    box-sizing: border-box;
+  }
+  .register .frame-1000004408 {
+    background: var(--text-light-primary, #ffffff);
+    display: flex;
+    padding: 0 7.9px;
+    box-sizing: border-box;
+  }
+  .register .atau {
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-secondary-1, #4a505c);
+  }
+  .register .button-2 {
+    border-radius: 10px;
+    border: 1px solid var(--other-border-1, #f1f1f1);
+    background: var(--text-light-primary, #ffffff);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 6px 0;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .logosgoogle-icon {
+    width: 15px;
+    height: 20px;
+  }
+  .register .button-3 {
+    overflow-wrap: break-word;
+    font-family: var(--body-small-small-bold-font-family, "DM Sans");
+    font-weight: var(--body-small-small-bold-font-weight, 700);
+    font-size: var(--body-small-small-bold-font-size, 14px);
+    letter-spacing: var(--body-small-small-bold-letter-spacing, 0.2px);
+    line-height: var(--body-small-small-bold-line-height, 1.4);
+    color: var(--text-dark-secondary-1, #4a505c);
+  }
+  .register .container {
+    margin: 3.1px 0 3px 0;
+    display: flex;
+    flex-direction: row;
+    column-gap: 4.8px;
+    width: 64px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .register .group-1000001536 {
+    background: #ffffff;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 13.4px 13.8px 11px 18px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .bars-status-bar-iphone-dark {
+    margin: 0 0 19.6px 15.4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: calc(100% - 15.4px);
+    box-sizing: border-box;
+  }
+  .register .battery {
+    margin-top: 0px;
+    width: 23.4px;
+    height: 10.8px;
+  }
+  .register .wifi {
+    margin-bottom: 0.3px;
+    width: 14.7px;
+    height: 10.5px;
+  }
+  .register .cellular-connection {
+    margin: 0.3px 0;
+    width: 16.3px;
+    height: 10.2px;
+  }
+  .register .time-style {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .register .time {
+    overflow-wrap: break-word;
+    font-family: "SF Pro Text", "Roboto Condensed";
+    font-weight: 600;
+    font-size: 14.4px;
+    letter-spacing: -0.3px;
+    color: #000000;
+  }
+  .register .group-1000001415 {
+    border-radius: 48px;
+    background: #f9f9f9;
+    position: relative;
+    margin-right: 4.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 7.8px 15.6px 8.2px 17.5px;
+    width: calc(100% - 4.2px);
+    box-sizing: border-box;
+  }
+  .register .vuesaxlinearrotate-right {
+    margin: 5.8px 0 6px 0;
+    display: flex;
+    width: 17.3px;
+    height: 17.3px;
+    box-sizing: border-box;
+  }
+  .register .rotate-right {
+    width: 17.3px;
+    height: 17.3px;
+  }
+  .register .group-1000001255 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .httpsvideobelajar-com {
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 13.4px;
+    line-height: 1.333;
+  }
+  .httpsvideobelajar-com-sub38 {
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 13.4px;
+    line-height: 1.333;
+    color: #acacac;
+  }
+  .register .httpsvideobelajar-com {
+    overflow-wrap: break-word;
+    font-family: "Poppins";
+    font-weight: 500;
+    font-size: 13.4px;
+    line-height: 2.143;
+    color: #000000;
+  }
+  .register .frame {
+    margin: 7.2px 6px 7.4px 0;
+    display: flex;
+    width: 13px;
+    height: 14.4px;
+    box-sizing: border-box;
+  }
+  .register .vector-5 {
+    width: 13px;
+    height: 14.4px;
+  }
+  .register .group-1000001401 {
+    margin: 4.8px 0 4.2px 0;
+    width: 17.8px;
+    height: 20px;
+  }
+  .register .frame-1000004485 {
+    box-shadow: var(--soft, 4px 8px 12px 0px rgba(62, 67, 74, 0.15)),
+      var(--soft, 0px 0px 1px 0px rgba(62, 67, 74, 0.31));
+    border-top: 1px solid var(--other-border-1, #f1f1f1);
+    border-bottom: 1px solid var(--other-border-1, #f1f1f1);
+    background: var(--text-light-primary, #ffffff);
+    padding: 24.8px 27.2px 24.7px 27.2px;
+    width: 100%;
+    height: 74px;
+    box-sizing: border-box;
+  }
+  .register .logo-1 {
+    width: 144.8px;
+    height: 22.6px;
+  }
+  .register .text-field-label-text-3 {
+    margin-bottom: 4px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .register .label-text {
+    margin: 4px 4.4px 0 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+  }
+  .register .span-text {
+    overflow-wrap: break-word;
+    font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+    font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+    font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+    letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+    line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+    color: var(--error-default, #ff5c2b);
+  }
+  .register .text-field-field-3 {
+    border-radius: 6px;
+    border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+    display: flex;
+    width: 280px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .register .input-3 {
+    background: var(--other-primary-background, #ffffff);
+    width: 280px;
+    height: 48px;
+  }
+  .register .text-field-label-text-4 {
+    margin-bottom: 4px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .register .label-text-1 {
+    margin: 4px 3.6px 0 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+  }
+  .register .span-text-1 {
+    overflow-wrap: break-word;
+    font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+    font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+    font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+    letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+    line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+    color: var(--error-default, #ff5c2b);
+  }
+  .register .text-field-field-4 {
+    border-radius: 6px;
+    border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+    display: flex;
+    width: 280px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .register .input-4 {
+    background: var(--other-primary-background, #ffffff);
+    width: 280px;
+    height: 48px;
+  }
+  .register .text-field-label-text-5 {
+    margin-bottom: 4px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .register .label-text-2 {
+    margin: 4px 4.2px 0 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+  }
+  .register .span-text-2 {
+    overflow-wrap: break-word;
+    font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+    font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+    font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+    letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+    line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+    color: var(--error-default, #ff5c2b);
+  }
+  .register .text-field-field-5 {
+    border-radius: 6px;
+    border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .register .input-5 {
+    background: var(--other-primary-background, #ffffff);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 14px 16px 14px 10px;
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .register .text {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .register .placeholder {
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-primary-1, #222325);
+  }
+  .register .icon-1 {
+    margin: 6.6px 0 6px 0;
+    display: flex;
+    width: 12px;
+    height: 7.4px;
+    box-sizing: border-box;
+  }
+  .register .vector-6 {
+    width: 12px;
+    height: 7.4px;
+  }
+  .register .label-text-3 {
+    margin: 4px 4.2px 0 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+  }
+  .register .span-text-3 {
+    overflow-wrap: break-word;
+    font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+    font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+    font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+    letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+    line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+    color: var(--error-default, #ff5c2b);
+  }
+  .register .vector-7 {
+    width: 12px;
+    height: 7.4px;
+  }
+  .register .text-field-field-6 {
+    border-radius: 6px;
+    border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+    display: flex;
+    width: 146px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .register .input-6 {
+    background: var(--other-primary-background, #ffffff);
+    width: 146px;
+    height: 48px;
+  }
+  .register .label-text-4 {
+    margin: 4px 4.2px 0 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+  }
+  .register .span-text-4 {
+    overflow-wrap: break-word;
+    font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+    font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+    font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+    letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+    line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+    color: var(--error-default, #ff5c2b);
+  }
+  .register .vector-8 {
+    width: 22px;
+    height: 19px;
+  }
+  .register .label-text-5 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+  }
+  .register .span-text-5 {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+    font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+    font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+    letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+    line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+    color: var(--error-default, #ff5c2b);
+  }
+  .register .vector-9 {
+    width: 22px;
+    height: 19px;
+  }
+  .register .button-4 {
+    overflow-wrap: break-word;
+    font-family: var(--body-small-small-bold-font-family, "DM Sans");
+    font-weight: var(--body-small-small-bold-font-weight, 700);
+    font-size: var(--body-small-small-bold-font-size, 14px);
+    letter-spacing: var(--body-small-small-bold-letter-spacing, 0.2px);
+    line-height: var(--body-small-small-bold-line-height, 1.4);
+    color: var(--text-light-primary-1, #ffffff);
+  }
+  .register .button-5 {
+    overflow-wrap: break-word;
+    font-family: var(--body-small-small-bold-font-family, "DM Sans");
+    font-weight: var(--body-small-small-bold-font-weight, 700);
+    font-size: var(--body-small-small-bold-font-size, 14px);
+    letter-spacing: var(--body-small-small-bold-letter-spacing, 0.2px);
+    line-height: var(--body-small-small-bold-line-height, 1.4);
+    color: var(--primary-default, #3ecf4c);
+  }
+  .register .rectangle-1 {
+    background: var(--other-border-1, #f1f1f1);
+    width: 280px;
+    height: 2px;
+  }
+  .register .input-field {
+    width: 100%; /* Lebar penuh pada layar kecil */
+    padding: 8px;
+  }
+  .register .text-field-input {
+    width: 100%; /* Adjust width to 100% for smaller screens */
+  }
+
+  .register .label-text-common,
+  .register .span-text-common {
+    width: 100%;
+  }
+}

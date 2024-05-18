@@ -1,0 +1,211 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+nav {
+  display: flex;
+  justify-content: space-between; /* Mengatur jarak antara elemen-elemen di dalam nav */
+  align-items: center;
+  padding: 10px; /* Menambahkan padding agar tampilan lebih rapi */
+  border-bottom: #747474 solid 1px;
+  background-color: white;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  margin-right: 10px; /* Memberikan jarak antara gambar logo dan teks "kategori" */
+}
+
+.logo-2 {
+  display: flex;
+  align-items: center;
+}
+
+.logo-2 span {
+  margin-right: 20px;
+  color: #747474;
+  font-size: 18px;
+}
+
+.logo-2 img {
+  width: 60px;
+  height: 60px;
+  border-radius: 10%; /* Agar gambar logo-2 bulat */
+}
+
+header,
+.header {
+  margin: 10px auto; /* Atur margin atas dan bawah 10px, sementara margin kiri dan kanan auto */
+  width: 80%; /* Atur lebar header, bisa disesuaikan sesuai kebutuhan */ /* Atur posisi relative untuk header */
+}
+
+.text-overlay {
+  padding: 50px;
+  background-image: url("../images/background-atas.png"); /* Atur gambar latar belakang */
+  background-size: cover; /* Agar gambar mengisi penuh kontainer */
+  background-position: center; /* Posisikan gambar di tengah */
+  background-repeat: no-repeat;
+  /* Geser 50% dari lebarnya dan 50% dari tingginya untuk benar-benar berada di tengah */
+  text-align: center;
+  color: white;
+}
+
+header p {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+header p:last-of-type {
+  font-size: 13px;
+  font-weight: 300;
+  margin-top: 10px;
+}
+
+.button-1 img {
+  width: 40%;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.text-1 p {
+  margin: 10px 10%;
+  color: whitesmoke;
+  font-size: 30px;
+}
+
+.text-1 p:last-of-type {
+  color: whitesmoke;
+  font-size: 14px;
+}
+
+.text-1 span {
+  margin: 1px 5%;
+  margin-left: 10%;
+  margin-right: 0;
+  color: whitesmoke;
+  font-size: 15px;
+  flex-direction: row;
+}
+
+.text-1 span:first-of-type {
+  display: inline-block;
+  color: #f64920;
+  font-weight: bold;
+  border-bottom: #f64920 salmon 1px;
+}
+
+.card {
+  margin: 50px 10%;
+  background-color: #333333;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+  align-items: center;
+}
+
+.card-item {
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-right: 50px;
+  width: 250px;
+  background-color: azure;
+  border-radius: 10%;
+  box-sizing: border-box; /* Memastikan padding termasuk dalam ukuran elemen */
+}
+
+.card-item img {
+  width: 100%; /* Gambar memenuhi lebar card-item */
+  height: auto; /* Menjaga aspek rasio gambar */
+  border-radius: 10%; /* Sesuaikan dengan border-radius card-item */
+  margin-bottom: 10px; /* Memberikan jarak antara gambar dan teks */
+}
+
+.card-item p:first-of-type {
+  font-weight: bold;
+}
+
+.card-item .avatar-container {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.card-item .avatar-1 {
+  width: 50px; /* Ukuran gambar avatar */
+  height: 50px; /* Ukuran gambar avatar */
+  border-radius: 50%; /* Membuat avatar berbentuk bulat */
+  margin-right: 10px; /* Jarak antara gambar avatar dan teks */
+}
+
+.card-item .avatar-info {
+  display: flex;
+  flex-direction: column;
+  text-align: left; /* Menyelaraskan teks di sebelah kiri */
+}
+
+.card-item .avatar-info span:first-of-type {
+  font-weight: bold;
+}
+
+.card-item .rating {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.card-item .rating img {
+  width: 40%;
+}
+
+.card-item .rating span {
+  color: #3ecf4c;
+  font-size: 19px;
+  margin-left: 10px;
+}
+
+footer {
+  padding: 20px; /* Mengurangi padding agar lebih responsif */
+  display: flex;
+  flex-wrap: wrap; /* Memastikan elemen dalam footer bisa membungkus */
+  background-color: white;
+  width: 100%;
+  box-sizing: border-box; /* Memastikan padding termasuk dalam ukuran elemen */
+}
+
+footer .text-kiri {
+  flex: 1; /* Membuat elemen ini mengambil ruang yang tersedia */
+  min-width: 200px; /* Menetapkan lebar minimum agar tidak terlalu kecil */
+  margin-right: 20px; /* Jarak antara text-kiri dan text-kanan */
+}
+
+footer .text-kiri p {
+  margin-top: 10px;
+}
+
+footer .text-kanan {
+  display: flex;
+  flex: 2; /* Membuat elemen ini mengambil lebih banyak ruang */
+  justify-content: space-between; /* Mengatur jarak antara kolom */
+  flex-wrap: wrap; /* Memastikan kolom bisa membungkus saat layar kecil */
+  min-width: 200px; /* Menetapkan lebar minimum agar tidak terlalu kecil */
+}
+
+footer .text-kanan > div {
+  flex: 1; /* Membuat setiap kolom mengambil ruang yang tersedia */
+  min-width: 150px; /* Menetapkan lebar minimum agar kolom tidak terlalu kecil */
+}
+
+footer .text-kanan p {
+  margin: 5px 0; /* Memberikan jarak vertikal pada teks */
+}

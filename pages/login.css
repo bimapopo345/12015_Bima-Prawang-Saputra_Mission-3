@@ -1,0 +1,682 @@
+.login .logo {
+  width: 193px;
+  height: 30.1px;
+}
+.login .navigation {
+  border-bottom: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+  background: #ffffff;
+  margin-bottom: 163.5px;
+  padding: 25px 142px 23.9px 142px;
+  width: 100%;
+  height: 80px;
+  box-sizing: border-box;
+}
+.login .masuk-ke-akun {
+  margin: 0 21.7px 10px 21px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--heading-heading-3-font-family, "Poppins");
+  font-weight: var(--heading-heading-3-font-weight, 600);
+  font-size: var(--heading-heading-3-font-size, 32px);
+  line-height: var(--heading-heading-3-line-height, 1.1);
+  color: var(--text-dark-primary-1, #222325);
+}
+.login .yuk-lanjutin-belajarmu-di-videobelajar {
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-regular-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-regular-font-weight, 400);
+  font-size: var(--body-medium-medium-regular-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-regular-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-regular-line-height, 1.4);
+  color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+}
+.login .desc {
+  margin: 0 0 36px 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login .label-text {
+  margin: 2px 3.7px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-regular-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-regular-font-weight, 400);
+  font-size: var(--body-medium-medium-regular-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-regular-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-regular-line-height, 1.4);
+  color: var(--text-dark-secondary-1, #4a505c);
+}
+.login .span-text {
+  overflow-wrap: break-word;
+  font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+  font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+  font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+  letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+  line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+  color: var(--error-default, #d32e1f);
+}
+.login .text-field-label-text-1 {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login .input-1 {
+  background: var(--other-primary-background, #ffffff);
+  width: 518px;
+  height: 48px;
+}
+.login .text-field-field-1 {
+  border-radius: 6px;
+  border: 1px solid var(--other-border-1, #f1f1f1);
+  display: flex;
+  width: 518px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.login .text-field {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login .label-text-1 {
+  margin: 2px 4.5px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-regular-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-regular-font-weight, 400);
+  font-size: var(--body-medium-medium-regular-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-regular-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-regular-line-height, 1.4);
+  color: var(--text-dark-secondary-1, #4a505c);
+}
+.login .span-text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+  font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+  font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+  letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+  line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+  color: var(--error-default, #d32e1f);
+}
+.login .text-field-label-text {
+  margin-bottom: 4px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login .vector {
+  width: 22px;
+  height: 19px;
+}
+.login .input {
+  background: var(--other-primary-background, #ffffff);
+  display: flex;
+  padding: 15px 11px 14px 11px;
+  width: 518px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.login .text-field-field {
+  border-radius: 6px;
+  border: 1px solid var(--other-border-1, #f1f1f1);
+  display: flex;
+  width: 518px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.login .text-field-1 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login .lupa-password {
+  margin: 0 0.5px;
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-medium-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-medium-font-weight, 500);
+  font-size: var(--body-medium-medium-medium-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-medium-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-medium-line-height, 1.4);
+  color: var(--text-dark-secondary-1, #4a505c);
+}
+.login .frame-1000004403 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login .button-4 {
+  overflow-wrap: break-word;
+  justify-content: center;
+  font-family: var(--body-medium-medium-bold-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-bold-font-weight, 700);
+  font-size: var(--body-medium-medium-bold-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-bold-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-bold-line-height, 1.4);
+  color: var(--text-light-primary-1, #ffffff);
+}
+.login .button {
+  border-radius: 10px;
+  background: var(--primary-default, #3ecf4c);
+  margin-bottom: 16px;
+  display: flex;
+  padding: 10px 0px 10px 0;
+  width: 518px;
+  box-sizing: border-box;
+}
+.login .button-5 {
+  overflow-wrap: break-word;
+  text-align: center;
+  font-family: var(--body-medium-medium-bold-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-bold-font-weight, 700);
+  font-size: var(--body-medium-medium-bold-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-bold-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-bold-line-height, 1.4);
+  color: var(--primary-default, #3ecf4c);
+}
+.login .button-1 {
+  border-radius: 10px;
+  background: var(--primary-100, rgba(226, 252, 217, 0.8));
+  display: flex;
+  padding: 10px 0 10px 0.5px;
+  width: 518px;
+  box-sizing: border-box;
+}
+.login .frame-1000004809 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 518px;
+  box-sizing: border-box;
+}
+.login .frame-1000004405 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login .rectangle-1 {
+  background: var(--other-border-1, #f1f1f1);
+  width: 518px;
+  height: 2px;
+}
+.login .divider {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 50%; /* Mengubah bottom ke top dan mengatur posisinya ke tengah secara vertikal */
+}
+
+.login .atau {
+  overflow-wrap: break-word;
+  z-index: 1;
+  font-family: var(--body-medium-medium-regular-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-regular-font-weight, 400);
+  font-size: var(--body-medium-medium-regular-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-regular-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-regular-line-height, 1.4);
+  color: var(--text-dark-secondary-1, #4a505c);
+}
+.login .frame-1000004408 {
+  background: var(--text-light-primary, #ffffff);
+  display: flex;
+  padding: 0 8.4px;
+  box-sizing: border-box;
+}
+.login .frame-1000004407 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Menambahkan ini untuk memusatkan content */
+  align-items: center;
+  height: 100px; /* Sesuaikan tinggi sesuai dengan kebutuhan */
+}
+
+.login .logosgoogle-icon {
+  margin: 1px 8px 1px 0;
+  width: 15px;
+  height: 20px;
+}
+.login .button-3 {
+  overflow-wrap: break-word;
+  font-family: var(--body-medium-medium-bold-font-family, "DM Sans");
+  font-weight: var(--body-medium-medium-bold-font-weight, 700);
+  font-size: var(--body-medium-medium-bold-font-size, 16px);
+  letter-spacing: var(--body-medium-medium-bold-letter-spacing, 0.2px);
+  line-height: var(--body-medium-medium-bold-line-height, 1.4);
+  color: var(--text-dark-secondary-1, #4a505c);
+}
+.login .button-2 {
+  border-radius: 10px;
+  border: 1px solid var(--other-border-1, #f1f1f1);
+  background: var(--text-light-primary, #ffffff);
+  display: flex;
+  flex-direction: row;
+  padding: 9px 0;
+  width: 518px;
+  box-sizing: border-box;
+}
+.login .frame-1000004406 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login .frame-42224 {
+  border-radius: 4px;
+  border: 1px solid var(--other-border-1, #f1f1f1);
+  background: var(--text-light-primary, #ffffff);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 35px;
+  box-sizing: border-box;
+}
+.login .frame-1000003752 {
+  display: flex;
+  box-sizing: border-box;
+}
+.login {
+  background: #fffdf3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 163.5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.login .button-4,
+.login .button-5,
+.login .atau {
+  text-align: center;
+}
+
+.login .divider {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 50%; /* Mengubah bottom ke top dan mengatur posisinya ke tengah secara vertikal */
+}
+
+.login .frame-1000004408 {
+  text-align: center; /* Menambahkan ini untuk memastikan 'atau' berada di tengah */
+  width: 100%; /* Menambahkan ini agar 'atau' dapat berada di tengah secara penuh */
+}
+
+.login .frame-1000004406 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%; /* Pastikan ini mengambil full width untuk alignment */
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Ini memastikan semua konten dalam .login di tengah secara vertikal */
+}
+
+.login .button,
+.login .button-1,
+.frame-1000004408,
+.button-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Memastikan konten di tengah secara vertikal */
+  width: 518px;
+  padding: 10px 0;
+  box-sizing: border-box;
+}
+
+@media (max-width: 568px) {
+  .frame-1000003752 {
+    display: flex;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .frame-42224 {
+    border-radius: 4px;
+    border: 1px solid var(--other-border-1, #f1f1f1);
+    background: var(--text-light-primary, #ffffff);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 19px;
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .desc {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .masuk-ke-akun {
+    margin-bottom: 10px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: "Poppins";
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.1;
+    color: var(--text-dark-primary-1, #222325);
+  }
+  .frame-1000003752 .yuk-lanjutin-belajarmu-di-videobelajar {
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+  }
+  .frame-1000003752 .frame-1000004406 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .frame-1000004405 {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .frame-1000004403 {
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .text-field {
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .text-field-1 {
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .text-field-label-text {
+    margin-bottom: 4px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .text-field-field {
+    border-radius: 6px;
+    border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+    width: 100%;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .input {
+    background: var(--other-primary-background, #ffffff);
+    display: flex;
+    padding: 15px 11px 14px 11px;
+    width: 100%;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .lupa-password {
+    margin: 0 0.1px;
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+  }
+  .frame-1000003752 .frame-1000004809 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .button {
+    border-radius: 10px;
+    background: var(--primary-default, #3ecf4c);
+    margin-bottom: 16px;
+    display: flex;
+    padding: 7px 0.4px 7px 0;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .button-1 {
+    border-radius: 10px;
+    background: var(--primary-100, rgba(226, 252, 217, 0.8));
+    display: flex;
+    padding: 7px 0 7px 0.3px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .frame-1000004407 {
+    position: relative;
+    margin-bottom: 20px;
+    display: flex;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .divider {
+    position: absolute;
+    left: 50%;
+    bottom: 9px;
+    translate: -50% 0;
+    display: flex;
+    width: 280px;
+    height: 2px;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .frame-1000004408 {
+    background: var(--text-light-primary, #ffffff);
+    display: flex;
+    padding: 0 7.9px;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .atau {
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-secondary-1, #4a505c);
+  }
+  .frame-1000003752 .button-2 {
+    border-radius: 10px;
+    border: 1px solid var(--other-border-1, #f1f1f1);
+    background: var(--text-light-primary, #ffffff);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 6px 0;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .logosgoogle-icon {
+    width: 15px;
+    height: 20px;
+  }
+  .frame-1000003752 .button-3 {
+    overflow-wrap: break-word;
+    font-family: var(--body-small-small-bold-font-family, "DM Sans");
+    font-weight: var(--body-small-small-bold-font-weight, 700);
+    font-size: var(--body-small-small-bold-font-size, 14px);
+    letter-spacing: var(--body-small-small-bold-letter-spacing, 0.2px);
+    line-height: var(--body-small-small-bold-line-height, 1.4);
+    color: var(--text-dark-secondary-1, #4a505c);
+  }
+  .frame-1000003752 .text-field-label-text-1 {
+    margin-bottom: 4px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .label-text {
+    margin: 4px 3.6px 0 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+  }
+  .frame-1000003752 .span-text {
+    overflow-wrap: break-word;
+    font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+    font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+    font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+    letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+    line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+    color: var(--error-default, #ff5c2b);
+  }
+  .frame-1000003752 .text-field-field-1 {
+    border-radius: 6px;
+    border: 1px solid var(--other-border, rgba(58, 53, 65, 0.12));
+    display: flex;
+    width: 280px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .frame-1000003752 .input-1 {
+    background: var(--other-primary-background, #ffffff);
+    width: 280px;
+    height: 48px;
+  }
+  .frame-1000003752 .label-text-1 {
+    margin: 4px 4.2px 0 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    color: var(--text-dark-secondary, rgba(51, 51, 51, 0.68));
+  }
+  .frame-1000003752 .span-text-1 {
+    overflow-wrap: break-word;
+    font-family: var(--subtitle-subtitle-regular-font-family, "Poppins");
+    font-weight: var(--subtitle-subtitle-regular-font-weight, 400);
+    font-size: var(--subtitle-subtitle-regular-font-size, 16px);
+    letter-spacing: var(--subtitle-subtitle-regular-letter-spacing, 0.2px);
+    line-height: var(--subtitle-subtitle-regular-line-height, 1.5);
+    color: var(--error-default, #ff5c2b);
+  }
+  .frame-1000003752 .vector {
+    width: 22px;
+    height: 19px;
+  }
+  .frame-1000003752 .button-4 {
+    overflow-wrap: break-word;
+    font-family: var(--body-small-small-bold-font-family, "DM Sans");
+    font-weight: var(--body-small-small-bold-font-weight, 700);
+    font-size: var(--body-small-small-bold-font-size, 14px);
+    letter-spacing: var(--body-small-small-bold-letter-spacing, 0.2px);
+    line-height: var(--body-small-small-bold-line-height, 1.4);
+    color: var(--text-light-primary-1, #ffffff);
+  }
+  .frame-1000003752 .button-5 {
+    overflow-wrap: break-word;
+    font-family: var(--body-small-small-bold-font-family, "DM Sans");
+    font-weight: var(--body-small-small-bold-font-weight, 700);
+    font-size: var(--body-small-small-bold-font-size, 14px);
+    letter-spacing: var(--body-small-small-bold-letter-spacing, 0.2px);
+    line-height: var(--body-small-small-bold-line-height, 1.4);
+    color: var(--primary-default, #3ecf4c);
+  }
+  .frame-1000003752 .rectangle-1 {
+    background: var(--other-border-1, #f1f1f1);
+    width: 280px;
+    height: 2px;
+  }
+  .login .frame-1000004408 {
+    text-align: center; /* Menambahkan ini untuk memastikan 'atau' berada di tengah */
+    width: 100%; /* Menambahkan ini agar 'atau' dapat berada di tengah secara penuh */
+  }
+
+  .login .frame-1000004406 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%; /* Pastikan ini mengambil full width untuk alignment */
+  }
+
+  .login {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Ini memastikan semua konten dalam .login di tengah secara vertikal */
+  }
+  .login .frame-1000004407 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Menambahkan ini untuk memusatkan content */
+    align-items: center;
+    height: 100px; /* Sesuaikan tinggi sesuai dengan kebutuhan */
+  }
+  .login .frame-1000004407 {
+    height: 120px; /* Tinggi ini harus cukup untuk memuat 'atau' dan divider */
+  }
+  .login .divider {
+    left: 100%;
+    transform: translateX(-50%);
+    top: 50%; /* Menyesuaikan posisi secara vertikal ke tengah antara tombol */
+  }
+
+  .login .frame-1000004407 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .login .frame-1000004408 {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  }
+
+  .login .button-3 {
+    /* Mempusatkan teks pada tombol Google */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+}
